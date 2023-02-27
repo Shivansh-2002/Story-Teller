@@ -1,4 +1,4 @@
-﻿# alexa-story-telling-model
+﻿# story-telling-model
 
 It is an alexa like device that is used to recite Indian toy stories.
 
